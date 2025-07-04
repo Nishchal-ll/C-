@@ -1,0 +1,14 @@
+/home/nishchal/Documents/dotnet/bin/Debug/net8.0/dotnet
+/home/nishchal/Documents/dotnet/bin/Debug/net8.0/dotnet.deps.json
+/home/nishchal/Documents/dotnet/bin/Debug/net8.0/dotnet.runtimeconfig.json
+/home/nishchal/Documents/dotnet/bin/Debug/net8.0/dotnet.dll
+/home/nishchal/Documents/dotnet/bin/Debug/net8.0/dotnet.pdb
+/home/nishchal/Documents/dotnet/obj/Debug/net8.0/dotnet.GeneratedMSBuildEditorConfig.editorconfig
+/home/nishchal/Documents/dotnet/obj/Debug/net8.0/dotnet.AssemblyInfoInputs.cache
+/home/nishchal/Documents/dotnet/obj/Debug/net8.0/dotnet.AssemblyInfo.cs
+/home/nishchal/Documents/dotnet/obj/Debug/net8.0/dotnet.csproj.CoreCompileInputs.cache
+/home/nishchal/Documents/dotnet/obj/Debug/net8.0/dotnet.dll
+/home/nishchal/Documents/dotnet/obj/Debug/net8.0/refint/dotnet.dll
+/home/nishchal/Documents/dotnet/obj/Debug/net8.0/dotnet.pdb
+/home/nishchal/Documents/dotnet/obj/Debug/net8.0/dotnet.genruntimeconfig.cache
+/home/nishchal/Documents/dotnet/obj/Debug/net8.0/ref/dotnet.dll
